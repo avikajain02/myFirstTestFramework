@@ -1,0 +1,435 @@
+08/29/2019 03:11:31 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/29/2019 03:12:00 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/29/2019 03:12:00 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/29/2019 03:12:00 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/29/2019 03:12:00 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/29/2019 03:12:01 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/29/2019 03:12:01 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/29/2019 03:12:17 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/29/2019 03:12:17 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/29/2019 03:12:18 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/29/2019 03:12:18 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/29/2019 03:12:24 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/29/2019 03:12:24 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/29/2019 03:12:24 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/29/2019 03:12:27 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/29/2019 03:12:40 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/29/2019 03:12:40 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/29/2019 03:12:40 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/29/2019 03:12:40 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/29/2019 03:12:41 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/29/2019 03:12:41 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/29/2019 03:12:42 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator:  locatorType: xpath
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/29/2019 03:12:43 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/29/2019 03:12:44 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/29/2019 03:12:44 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/29/2019 03:12:44 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/29/2019 03:12:44 PM - TestStatus - INFO: test_invalidEnrollment ### TEST SUCCESSFUL
+08/30/2019 12:38:49 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 12:38:49 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 12:38:54 PM - LoginPgae - INFO: Element not found with locator: user_email and  locatorType: id
+08/30/2019 12:38:54 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/30/2019 12:38:55 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 12:38:56 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 12:38:56 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 12:39:01 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 12:39:06 PM - RegisterCoursePage - INFO: Element not found with locator: search-courses and  locatorType: id
+08/30/2019 12:39:06 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+08/30/2019 12:39:11 PM - RegisterCoursePage - INFO: Element not found with locator: search-course-button and  locatorType: id
+08/30/2019 12:39:11 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: search-course-button locatorType: id
+08/30/2019 12:39:16 PM - RegisterCoursePage - INFO: Element not found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 12:39:16 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 12:39:21 PM - RegisterCoursePage - INFO: Element not found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 12:39:21 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 12:39:26 PM - RegisterCoursePage - INFO: Element not found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 12:39:31 PM - RegisterCoursePage - INFO: Element not found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:45:07 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 12:45:07 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 12:45:13 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 12:45:13 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 12:45:13 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 12:45:14 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 12:45:14 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 12:45:20 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 12:45:23 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 12:45:24 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 12:45:24 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 12:45:28 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 12:45:28 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 12:45:28 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 12:45:30 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 12:45:38 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 12:45:39 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 12:45:39 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:45:44 PM - RegisterCoursePage - INFO: Element not found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:47:52 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 12:47:52 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 12:48:05 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 12:48:06 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 12:48:06 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 12:48:06 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 12:48:06 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 12:48:18 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 12:48:18 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 12:48:19 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 12:48:19 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 12:48:23 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 12:48:23 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 12:48:23 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 12:48:26 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 12:48:39 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 12:48:39 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 12:48:39 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:48:39 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:48:39 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 12:48:40 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator:  locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 12:48:41 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 12:48:42 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 12:48:42 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 12:48:42 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/30/2019 12:50:39 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 12:50:39 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 12:50:49 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 12:50:49 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 12:50:49 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 12:50:50 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 12:50:50 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 12:51:04 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 12:51:04 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 12:51:05 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 12:51:05 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 12:51:15 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 12:51:15 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 12:51:16 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 12:51:18 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 12:51:44 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 12:51:44 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 12:51:44 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:51:44 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:51:44 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:51:45 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator:  locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 12:51:46 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 12:51:46 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 12:51:46 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/30/2019 11:07:51 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:07:51 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:07:56 PM - LoginPgae - INFO: Element not found with locator: user_email and  locatorType: id
+08/30/2019 11:07:56 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/30/2019 11:08:01 PM - LoginPgae - INFO: Element not found with locator: user_password and  locatorType: id
+08/30/2019 11:08:01 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/30/2019 11:08:06 PM - LoginPgae - INFO: Element not found with locator: commit and  locatorType: name
+08/30/2019 11:08:06 PM - LoginPgae - INFO: Cannot click on the element with locator: commit locatorType: name
+08/30/2019 11:08:11 PM - RegisterCoursePage - INFO: Element not found with locator: search-courses and  locatorType: id
+08/30/2019 11:08:11 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+08/30/2019 11:08:16 PM - RegisterCoursePage - INFO: Element not found with locator: search-course-button and  locatorType: id
+08/30/2019 11:08:16 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: search-course-button locatorType: id
+08/30/2019 11:08:22 PM - RegisterCoursePage - INFO: Element not found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:08:22 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:10:17 PM - LoginPgae - INFO: Element not found with locator: Login and  locatorType: link
+08/30/2019 11:10:17 PM - LoginPgae - INFO: Cannot click on the element with locator: Login locatorType: link
+08/30/2019 11:10:22 PM - LoginPgae - INFO: Element not found with locator: user_email and  locatorType: id
+08/30/2019 11:10:22 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/30/2019 11:10:27 PM - LoginPgae - INFO: Element not found with locator: user_password and  locatorType: id
+08/30/2019 11:10:27 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/30/2019 11:10:32 PM - LoginPgae - INFO: Element not found with locator: commit and  locatorType: name
+08/30/2019 11:10:32 PM - LoginPgae - INFO: Cannot click on the element with locator: commit locatorType: name
+08/30/2019 11:12:02 PM - RegisterCoursePage - INFO: Element not found with locator: search-courses and  locatorType: id
+08/30/2019 11:12:02 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+08/30/2019 11:12:07 PM - RegisterCoursePage - INFO: Element not found with locator: search-course-button and  locatorType: id
+08/30/2019 11:12:07 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: search-course-button locatorType: id
+08/30/2019 11:12:12 PM - RegisterCoursePage - INFO: Element not found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:12:12 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:12:17 PM - RegisterCoursePage - INFO: Element not found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:12:17 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:12:22 PM - RegisterCoursePage - INFO: Element not found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:12:27 PM - RegisterCoursePage - INFO: Element not found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:16:10 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:16:10 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:18:29 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 11:18:29 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 11:18:29 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 11:18:30 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 11:18:30 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 11:19:09 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 11:19:09 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 11:19:09 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 11:19:09 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 11:19:21 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 11:19:21 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:19:21 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:19:24 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:19:59 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:19:59 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:19:59 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:19:59 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:20:00 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:20:00 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 11:20:00 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 11:20:00 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:20:00 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:20:01 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/30/2019 11:20:02 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/30/2019 11:20:02 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 11:20:02 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 11:20:02 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 11:20:02 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 11:20:02 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 11:20:02 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/30/2019 11:23:17 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:23:17 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:23:22 PM - LoginPgae - INFO: Element not found with locator: user_email and  locatorType: id
+08/30/2019 11:23:22 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_email locatorType: id
+08/30/2019 11:23:27 PM - LoginPgae - INFO: Element not found with locator: user_password and  locatorType: id
+08/30/2019 11:23:27 PM - LoginPgae - INFO: Cannot send data on the element with locator: user_password locatorType: id
+08/30/2019 11:23:32 PM - LoginPgae - INFO: Element not found with locator: commit and  locatorType: name
+08/30/2019 11:23:32 PM - LoginPgae - INFO: Cannot click on the element with locator: commit locatorType: name
+08/30/2019 11:23:37 PM - RegisterCoursePage - INFO: Element not found with locator: search-courses and  locatorType: id
+08/30/2019 11:23:37 PM - RegisterCoursePage - INFO: Cannot send data on the element with locator: search-courses locatorType: id
+08/30/2019 11:23:42 PM - RegisterCoursePage - INFO: Element not found with locator: search-course-button and  locatorType: id
+08/30/2019 11:23:42 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: search-course-button locatorType: id
+08/30/2019 11:23:47 PM - RegisterCoursePage - INFO: Element not found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:23:47 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:23:52 PM - RegisterCoursePage - INFO: Element not found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:23:52 PM - RegisterCoursePage - INFO: Cannot click on the element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:23:57 PM - RegisterCoursePage - INFO: Element not found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:24:02 PM - RegisterCoursePage - INFO: Element not found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:26:29 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:26:30 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:26:40 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 11:26:41 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 11:26:41 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 11:26:41 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 11:26:41 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 11:26:53 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 11:26:53 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 11:26:53 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 11:26:53 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 11:26:57 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 11:26:57 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:26:57 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:27:00 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:27:10 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:27:12 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:27:12 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:27:12 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:27:12 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 11:27:13 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/30/2019 11:27:14 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/30/2019 11:27:15 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 11:27:15 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 11:27:15 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 11:27:15 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 11:27:15 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 11:27:15 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/30/2019 11:29:41 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:29:42 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:29:51 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 11:29:51 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 11:29:51 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 11:29:52 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 11:29:52 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 11:30:02 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 11:30:02 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 11:30:03 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 11:30:03 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 11:30:06 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 11:30:06 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:30:07 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:30:09 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:30:19 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:30:21 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:30:21 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:30:22 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:30:22 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:30:23 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/30/2019 11:30:24 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/30/2019 11:30:24 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 11:30:24 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 11:30:24 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 11:30:24 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 11:30:24 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 11:30:24 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/30/2019 11:43:30 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/30/2019 11:43:31 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/30/2019 11:43:40 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/30/2019 11:43:40 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/30/2019 11:43:40 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/30/2019 11:43:40 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/30/2019 11:43:40 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/30/2019 11:43:50 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/30/2019 11:43:51 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/30/2019 11:43:51 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/30/2019 11:43:51 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/30/2019 11:44:00 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/30/2019 11:44:00 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/30/2019 11:44:06 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/30/2019 11:44:09 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/30/2019 11:44:23 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/30/2019 11:44:24 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/30/2019 11:44:25 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/30/2019 11:44:25 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/30/2019 11:44:25 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/31/2019 12:33:43 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/31/2019 12:33:43 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/31/2019 12:33:59 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/31/2019 12:33:59 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/31/2019 12:33:59 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/31/2019 12:34:00 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/31/2019 12:34:00 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/31/2019 12:34:12 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/31/2019 12:34:12 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/31/2019 12:34:13 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/31/2019 12:34:13 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/31/2019 12:34:17 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/31/2019 12:34:17 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/31/2019 12:34:17 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/31/2019 12:34:19 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/31/2019 12:34:33 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/31/2019 12:34:33 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/31/2019 12:34:33 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 12:34:33 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/31/2019 12:34:33 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 12:34:34 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/31/2019 12:34:35 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/31/2019 12:34:36 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/31/2019 12:34:36 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/31/2019 12:34:36 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/31/2019 12:34:36 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/31/2019 12:34:36 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
+08/31/2019 04:24:07 PM - LoginPgae - INFO: Element found with locator: Login and  locatorType: link
+08/31/2019 04:24:08 PM - LoginPgae - INFO: Clicked on element with locator: Login locatorType: link
+08/31/2019 04:24:23 PM - LoginPgae - INFO: Element found with locator: user_email and  locatorType: id
+08/31/2019 04:24:24 PM - LoginPgae - INFO: Sent data on element with locator: user_email locatorType: id
+08/31/2019 04:24:24 PM - LoginPgae - INFO: Element found with locator: user_password and  locatorType: id
+08/31/2019 04:24:24 PM - LoginPgae - INFO: Sent data on element with locator: user_password locatorType: id
+08/31/2019 04:24:24 PM - LoginPgae - INFO: Element found with locator: commit and  locatorType: name
+08/31/2019 04:24:38 PM - LoginPgae - INFO: Clicked on element with locator: commit locatorType: name
+08/31/2019 04:24:38 PM - RegisterCoursePage - INFO: Element found with locator: search-courses and  locatorType: id
+08/31/2019 04:24:38 PM - RegisterCoursePage - INFO: Sent data on element with locator: search-courses locatorType: id
+08/31/2019 04:24:38 PM - RegisterCoursePage - INFO: Element found with locator: search-course-button and  locatorType: id
+08/31/2019 04:24:43 PM - RegisterCoursePage - INFO: Clicked on element with locator: search-course-button locatorType: id
+08/31/2019 04:24:43 PM - RegisterCoursePage - INFO: Element found with locator: //div[contains(text(),'JavaScript for beginners')] and  locatorType: xpath
+08/31/2019 04:24:43 PM - RegisterCoursePage - INFO: Clicked on element with locator: //div[contains(text(),'JavaScript for beginners')] locatorType: xpath
+08/31/2019 04:24:46 PM - RegisterCoursePage - INFO: Element found with locator: //*[@id='enroll-button-top'] and  locatorType: xpath
+08/31/2019 04:25:05 PM - RegisterCoursePage - INFO: Clicked on element with locator: //*[@id='enroll-button-top'] locatorType: xpath
+08/31/2019 04:25:05 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame8')] and  locatorType: xpath
+08/31/2019 04:25:05 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 04:25:05 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/31/2019 04:25:05 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cardnumber'] and  locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cardnumber'] locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame9')] and  locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='exp-date'] and  locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='exp-date'] locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame10')] and  locatorType: xpath
+08/31/2019 04:25:06 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='cvc'] and  locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='cvc'] locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Element found with locator: //iframe[contains(@name,'__privateStripeFrame11')] and  locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Switched frame successfully
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Element found with locator: //input[@name='postal'] and  locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Sent data on element with locator: //input[@name='postal'] locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Element found with locator: //input[@id='agreed_to_terms_checkbox'] and  locatorType: xpath
+08/31/2019 04:25:07 PM - RegisterCoursePage - INFO: Clicked on element with locator: //input[@id='agreed_to_terms_checkbox'] locatorType: xpath
+08/31/2019 04:25:08 PM - RegisterCoursePage - INFO: Element found with locator: //button[@id='confirm-purchase'] and  locatorType: xpath
+08/31/2019 04:25:08 PM - RegisterCoursePage - INFO: Element is enabled with locator: //button[@id='confirm-purchase'] locatorType: xpath
+08/31/2019 04:25:08 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Enrollement Button Disabled
+08/31/2019 04:25:08 PM - TestStatus - INFO: test_enrollmentButtonEnabled ### TEST SUCCESSFUL
